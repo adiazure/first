@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 after first commit.
 This is add in dev1.
+=======
+after the first commit.
+hello hello
+
